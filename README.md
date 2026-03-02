@@ -1,5 +1,7 @@
-##UPDATE
-##client Hunt web scouty.ai
+## UPDATE
+
+## client Hunt web scouty.ai
+
 # Kloi Web-VERSION
 
 Kloi Web is the browser-based version of Kloi, built with React, TypeScript, and Vite.  
